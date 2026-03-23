@@ -12,6 +12,7 @@ set CLOCK to 50 Hz
 
 // Complete some polling task
 
+<<<<<<< HEAD
 // TODO: Aaron to fix polling task, please delete this comment when fixed
 
 -- // DONE-- // DONE
